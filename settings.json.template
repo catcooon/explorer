@@ -97,6 +97,9 @@
     "ccex_key" : "Get-Your-Own-Key",
     "default": "bittrex"
   },
+ 
+  // ipstack
+  "ipstack_key": "Get-Your-Own-Key",
 
   // richlist/top100 settings
   "richlist": {
