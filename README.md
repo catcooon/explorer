@@ -52,6 +52,10 @@ Create user with read/write access:
 
 *Make required changes in settings.json*
 
+#### Geolocation for ip addresses
+    
+    Please get a free api_key from [ipstack](https://ipstack.com/) and enter it in settings.json to move from the [depricated  freegeoip platform](https://github.com/apilayer/freegeoip#readme).
+
 ### Start Explorer
 
     npm start
